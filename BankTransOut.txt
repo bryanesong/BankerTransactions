@@ -1,0 +1,87 @@
+ERROR: Not enough funds to withdraw $20000 from Johnny Cash's account
+
+Johnny Cash's Transaction History: 
+O Cash Johnny 1001
+D 10010 542
+D 10011 1542
+D 10012 5442
+D 10013 7540
+D 10017 5442
+D 10016 7542
+D 10011 1500
+D 10012 5000
+D 10013 7000
+D 10017 6543
+D 10016 7576
+W 10017 1000
+W 10016 65
+W 10010 72
+T 10017 54 10015
+W 10017 20000
+
+Hank Williams's Transaction History: 
+O Williams Hank 1253
+D 12530 10000
+D 12531 10000
+D 12532 10000
+D 12533 10000
+D 12534 10000
+D 12535 10000
+D 12536 10000
+D 12537 10000
+D 12538 10000
+D 12539 10000
+
+Hank Williams's Transaction History: 
+O Williams Hank 1253
+D 12530 10000
+D 12531 10000
+D 12532 10000
+D 12533 10000
+D 12534 10000
+D 12535 10000
+D 12536 10000
+D 12537 10000
+D 12538 10000
+D 12539 10000
+H 12534
+W 12532 15000
+Account Number: 4356 not found.
+Account Number: 9876 is already open. 
+
+Processing Done. Final Balances: 
+Johnny Cash Account ID: 1001
+Money Market: 470
+Prime Money Market: 3042
+Long-Term Bond: 10442
+Short-Term Bond: 14540
+500 Index Fund: 0
+Capital Value Fund: 54
+Growth Equity Fund: 15053
+Growth Index Fund: 10931
+Value Stock Index: 0
+Value Fund: 0
+
+Hank Williams Account ID: 1253
+Money Market: 10000
+Prime Money Market: 10000
+Long-Term Bond: 0
+Short-Term Bond: 5000
+500 Index Fund: 10000
+Capital Value Fund: 10000
+Growth Equity Fund: 10000
+Growth Index Fund: 10000
+Value Stock Index: 10000
+Value Fund: 9235
+
+Willie Nelson Account ID: 9876
+Money Market: 0
+Prime Money Market: 0
+Long-Term Bond: 0
+Short-Term Bond: 0
+500 Index Fund: 0
+Capital Value Fund: 0
+Growth Equity Fund: 0
+Growth Index Fund: 0
+Value Stock Index: 0
+Value Fund: 0
